@@ -1,0 +1,29 @@
+
+        body{
+            margin-top:10%;
+            text-align: center;
+            background-color: black; 
+            letter-spacing: 25px;
+        }
+        
+        p{
+            margin: 0;
+            font-size: 4.5em;
+            color: green;
+        }
+        
+        svg.elements{
+            fill: currentColor;
+            width: 2.9em;
+            height: 2.9em;
+          
+        }
+        
+        a:link, a:visited, a:active{
+            color: yellow;
+        }
+        a:hover{
+            color:purple;
+        
+        }
+    
